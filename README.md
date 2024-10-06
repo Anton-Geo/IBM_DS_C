@@ -1,2 +1,2 @@
-# IBM_DS_C
+# IBM Data Science Professional Certificate
 Repository for IBM Data Science PC on Coursera
